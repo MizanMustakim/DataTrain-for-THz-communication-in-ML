@@ -1,3 +1,11 @@
+# Installing Package
+
+```python
+pip install DijkstraAlgo
+```
+
+Now Run the code.
+
 **Output:**
 
 |![image](https://user-images.githubusercontent.com/56040932/106307032-06db2980-6289-11eb-8528-0e9b030295be.png)|
